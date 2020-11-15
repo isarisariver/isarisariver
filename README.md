@@ -8,7 +8,9 @@ Follow me on <a href="https://dev.to/isarisariver">
 
 Follow me on <a href="https://twitter.com/cowpilotio"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" alt="Marian Beck's Twitter Profile" width="30"></a> for updates on my app.
   
-Send me a message if you want to talk about anything. 
+Send me a message if you want to talk about anything.
+
+<img src="https://github.com/isarisariver/drawing-with-css/blob/master/images/melon.png" width="250px">
 
 <!--
 **isarisariver/isarisariver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
