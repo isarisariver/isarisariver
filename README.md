@@ -1,6 +1,6 @@
 ### Hi, I'm Marian 👋
 
-I'm the developer of [cow-pilot.io](https://www.cow-pilot.io). It's a to-do list app, but you can add only 6 items. 
+I'm the developer of [cow-pilot.io](https://www.cow-pilot.io). It's a to-do list app that helps you focus on your most important tasks.
 
 Follow me on <a href="https://dev.to/isarisariver">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Marian Beck's DEV Profile" height="30" width="30">
