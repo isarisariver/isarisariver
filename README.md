@@ -1,16 +1,11 @@
 ### Hi, I'm Marian 👋
 
-I'm the developer of [cow-pilot.io](https://www.cow-pilot.io). It's a to-do list app that helps you focus on your most important tasks.
+I'm an indie developer in Munich, Germany and I'm currently working on [cow-pilot.io](https://www.cow-pilot.io), a due-date driven to-do list app. Most of my development is done using the MERN stack.
 
-Follow me on <a href="https://dev.to/isarisariver">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Marian Beck's DEV Profile" height="30" width="30">
-</a> for tutorials and more.
+Send me a message if you want to talk about anything &#109;&#97;&#114;&#105;&#97;&#110;&#64;&#99;&#111;&#119;&#45;&#112;&#105;&#108;&#111;&#116;&#46;&#105;&#111; .
 
-Follow me on <a href="https://twitter.com/cowpilotio"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" alt="Marian Beck's Twitter Profile" width="30"></a> for updates on my app.
-  
-Send me a message if you want to talk about anything.
+I sometimes write articles on <a href="https://dev.to/isarisariver">Dev.to</a>. I'm also on <a href="https://twitter.com/isarisariver">Twitter</a>, where I mostly post updates on my app.  
 
-<img src="https://github.com/isarisariver/drawing-with-css/blob/master/images/melon.png" width="250px">
 
 <!--
 **isarisariver/isarisariver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
