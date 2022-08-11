@@ -1,11 +1,6 @@
-### Hi, I'm Marian 👋
+### Hi
 
-I'm an indie developer in Munich, Germany and I'm currently working on [cow-pilot.io](https://www.cow-pilot.io), a due-date driven to-do list app. Most of my development is done using the MERN stack.
-
-Send me a message if you want to talk about anything &#109;&#97;&#114;&#105;&#97;&#110;&#64;&#99;&#111;&#119;&#45;&#112;&#105;&#108;&#111;&#116;&#46;&#105;&#111; .
-
-I sometimes write articles on <a href="https://dev.to/isarisariver">Dev.to</a>. I'm also on <a href="https://twitter.com/isarisariver">Twitter</a>, where I mostly post updates on my app.  
-
+🌱 Currently learning: Solidity
 
 <!--
 **isarisariver/isarisariver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
