@@ -1,7 +1,5 @@
 ### Hi
 
-🌱 Currently learning: Solidity
-
 <!--
 **isarisariver/isarisariver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
